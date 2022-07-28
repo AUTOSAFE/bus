@@ -43,7 +43,6 @@ def pass_mission():
 		token = carrer['token']
 		skip_mission(token)
 
-
 while 1:
 	pass_mission()
 	if counter == 3:
